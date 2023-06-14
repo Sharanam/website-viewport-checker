@@ -1,0 +1,18 @@
+{
+  "name": "website-viewport-checker",
+  "version": "1.0.0",
+  "description": "open webpages and check every viewport",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
